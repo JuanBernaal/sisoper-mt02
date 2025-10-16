@@ -6,8 +6,8 @@ Actualización del Video del Parcial II — Sistemas Operativos
 El video originalmente subido **no contenía audio** debido a un error en la grabación.  
 Se ha publicado una **nueva versión con audio completo**, en la que se escucha la explicación:
 
-📺 **Nuevo video con audio:**  
-➡️ [Video](mt02 sisoper + audio)
+**Nuevo video con audio:**  
+[mt02 sisoper + audio](https://youtu.be/TYuMhoehmgg)
 
 ---
 
