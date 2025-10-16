@@ -1,0 +1,9 @@
+OK: Asignado 'A' (10) en 0.
+OK: Asignado 'B' (20) en 10.
+OK: Asignado 'C' (30) en 30.
+OK: liberado 'A'.
+OK: liberado 'B'.
+OK: Asignado 'D' (15) en 60.
+OK: Asignado 'E' (18) en 0.
+[E: 18][Libre: 12][C: 30][D: 15][Libre: 25]
+# Metricas -> FragInterna=0, FragExterna=12, LibreTotal=37, MayorHueco=25, Huecos=2

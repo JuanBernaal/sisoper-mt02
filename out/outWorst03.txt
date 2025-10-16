@@ -1,0 +1,7 @@
+OK: Asignado 'A' (5) en 0.
+OK: Asignado 'B' (5) en 5.
+OK: Asignado 'C' (5) en 10.
+OK: liberado 'B'.
+OK: Asignado 'D' (3) en 15.
+[A: 5][Libre: 5][C: 5][D: 3][Libre: 82]
+# Metricas -> FragInterna=0, FragExterna=5, LibreTotal=87, MayorHueco=82, Huecos=2

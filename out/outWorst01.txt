@@ -1,0 +1,6 @@
+OK: Asignado 'P1' (10) en 0.
+OK: Asignado 'P2' (25) en 10.
+OK: liberado 'P1'.
+OK: Asignado 'P3' (8) en 35.
+[Libre: 10][P2: 25][P3: 8][Libre: 57]
+# Metricas -> FragInterna=0, FragExterna=10, LibreTotal=67, MayorHueco=57, Huecos=2
